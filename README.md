@@ -4,4 +4,4 @@
 
 试玩网址：https://kaka20211019.github.io/qizhou-playtest/
 
-这个仓库只放打包后的网页，版本 d7b0b82。
+这个仓库只放打包后的网页，版本 9b409a4。
